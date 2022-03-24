@@ -1,0 +1,67 @@
+{
+  "prefix": "=",
+   "b_id" : "157652",
+    "b_key" : "Enr5H7upyFrdF61Y",
+  "mongoose": "mongodb+srv://Scod:scod3318@cluster0.lctbh.mongodb.net/Scod",
+       "DMtoUnbanID":"Ashton#4218",
+       "imageapi": "b9b4a97ccfe2f2aa1f03b2e197fa08168416d47a614af90540a2e5328cca159b8132b6a192f619857433e4b4bfb935fe8f90e4c9e280671c1bc321f9939d921b",
+
+  "clientsettings": {
+    "nodes": [
+      {
+         "host": "lava.link",
+         "port":80,
+         "password": "youshallnotpass"
+       }
+     ]
+  },
+
+  "spotify": {
+    "clientSecret": "272c91f3936e45eeb4295942c68a5a29",
+    "clientID": "331f31736b254604acdc055cbb6858bd"
+  },
+
+  "settings": {
+       "COMMENT": "time_delay 0 === insta leave",
+    "progressbar_emoji": "🔶",
+    "leaveOnEmpty_Channel" : {
+      "enabled": false,
+      "time_delay": 60000000
+    },
+    "LeaveOnEmpty_Queue": {
+      "enabled": false,
+      "time_delay": 30000000
+    },
+    "selfDeaf": true,
+    "serverDeaf": true
+  },
+
+  "lyricssettings": {
+    "lyrics_finder": true,         "COMMENT": "my suggestion is to use ksoft_api on true and paste in the api key u can sign up, until u get the key use lyrics_finder which is way weaker but better the nothing",
+    "ksoft_api": {
+      "use_this_instead": false,
+      "api_key": ""
+    }
+  },
+
+"colors": {
+        "yes": "GREEN",
+        "no": "RED"
+    },
+    
+   "config" : {
+     "footertext": "Scod",
+  "footericon": "https://cdn.discordapp.com/attachments/880723751430414406/892744778012307497/Scod.png"
+   },
+
+  "ownerIDS": ["849359686855950375"],
+
+
+  "status": {
+    "text": "",
+    "type": "WATCHING", "COMMENT:": "TYPES ARE: PLAYING, STREAMING,TCHING, LISTENING",
+    "url": "https://scod.chatsappweb.repl.co"
+  }
+  
+
+}

@@ -1,0 +1,12 @@
+{
+    "website": {
+        "support": "https://dsc.gg/hi-people",
+        "domain" : "https://scod.saumavadutta.repl.co"
+    },
+    "config": {
+        "port": 80,
+        "callback": "https://scod.saumavadutta.repl.co/callback",
+        "clientID": "892740154249318470",
+        "Secret": "h-d6U_NMG0voAQcQgvtyCjzKA1bD2JMV"
+    }
+}
